@@ -53,39 +53,39 @@
 140.82.112.22                 collector.github.com
 185.199.110.133               desktop.githubusercontent.com
 185.199.110.133               favicons.githubusercontent.com
-159.106.121.75                gist.github.com
-16.15.229.82                  github-cloud.s3.amazonaws.com
-16.15.245.189                 github-com.s3.amazonaws.com
-16.15.244.199                 github-production-release-asset-2e65be.s3.amazonaws.com
-54.231.201.113                github-production-repository-file-5c1aeb.s3.amazonaws.com
-16.15.246.228                 github-production-user-asset-6210df.s3.amazonaws.com
+243.185.187.39                gist.github.com
+52.217.94.236                 github-cloud.s3.amazonaws.com
+16.15.252.38                  github-com.s3.amazonaws.com
+16.15.223.73                  github-production-release-asset-2e65be.s3.amazonaws.com
+16.15.237.151                 github-production-repository-file-5c1aeb.s3.amazonaws.com
+16.15.183.97                  github-production-user-asset-6210df.s3.amazonaws.com
 192.0.66.2                    github.blog
 20.205.243.166                github.com
-140.82.112.17                 github.community
-185.199.108.215               github.githubassets.com
-108.160.169.54                github.global.ssl.fastly.net
+140.82.113.18                 github.community
+185.199.111.215               github.githubassets.com
+31.13.85.34                   github.global.ssl.fastly.net
 185.199.109.153               github.io
 185.199.110.133               github.map.fastly.net
 185.199.109.153               githubstatus.com
-140.82.112.26                 live.github.com
+140.82.114.26                 live.github.com
 185.199.110.133               media.githubusercontent.com
 185.199.110.133               objects.githubusercontent.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 185.199.110.133               raw.githubusercontent.com
 185.199.110.133               user-images.githubusercontent.com
 150.171.110.102               vscode.dev
-140.82.113.21                 education.github.com
+140.82.114.21                 education.github.com
 185.199.110.133               private-user-images.githubusercontent.com
 
 
-# Update time: 2026-09-02T07:24:01+08:00
+# Update time: 2026-09-02T17:26:26+08:00
 # Update url: https://raw.hellogithub.com/hosts
 # Star me: https://github.com/521xueweihan/GitHub520
 # GitHub520 Host End
 
 ```
 
-该内容会自动定时更新， 数据更新时间：2026-09-02T07:24:01+08:00
+该内容会自动定时更新， 数据更新时间：2026-09-02T17:26:26+08:00
 
 #### 2.1.2 修改 hosts 文件
 
